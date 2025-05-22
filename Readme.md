@@ -13,7 +13,7 @@
 
 <div align="center">
 
-[![Yht0511's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yht0511&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![牛马活动图](https://github-readme-activity-graph.vercel.app/graph?username=yht0511&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
