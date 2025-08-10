@@ -1,6 +1,6 @@
 # @杨浩天
 
-## 📊 哎Github😭
+## 📊 Github😭
 
 <div align="center">
 <div style="display: flex; justify-content: center; gap: 10px;">
