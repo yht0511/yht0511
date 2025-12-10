@@ -1,11 +1,10 @@
 # @杨浩天
 
 ## 📊 Github😭
-
 <div align="center">
 <div style="display: flex; justify-content: center; gap: 10px;">
-<img src="https://github-readme-stats.vercel.app/api?username=yht0511&show_icons=true&count_private=true" style="height: 200px;"/>
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yht0511" style="height: 200px;"/> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=yht0511&show_icons=true&count_private=true" style="height: 200px;"/> -->
+<img src="https://githubcard.com/yht0511.svg?d=LcynvdO0" style="height: 200px;"/>
 </div>
 </div>
 
