@@ -28,7 +28,6 @@
 
 <div align="center">
 
-### ✨ *"Talk is cheap.Show me the code."* ✨
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yht0511&color=blueviolet&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/yht0511?style=for-the-badge&color=blue)
