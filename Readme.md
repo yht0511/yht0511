@@ -17,12 +17,6 @@
 </div>
 
 
-## 📫 个人博客😛
-
-<!-- 渐变风格 -->
-<a href="https://yht.life" target="_blank">
-<img src="https://img.shields.io/badge/✨_Visit_Blog-yht.life-gradient?style=for-the-badge&logo=rss&logoColor=white"/>
-</a>
 
 ---
 
